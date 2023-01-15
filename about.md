@@ -6,6 +6,7 @@ permalink: /about/
 
 Xiangyu Wang
 B.A. English Language and Applied Linguistics
+
 Currently an international exchange student at UoB, UK
 
 ### More Information
@@ -15,4 +16,5 @@ A linguist into being, forming my understanding of the development of child gram
 ### Contact me
 
 [My Gmail](phoebusa50@gmail.com)
+
 [My University Account](hvyxw1@nottingham.edu.cn)
