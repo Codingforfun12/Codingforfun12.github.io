@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Xiangyu Wang
-B.A. English Language and Applied Linguistics
+### Xiangyu Wang
+**B.A. English Language and Applied Linguistics**
 
-Currently an international exchange student at UoB, UK
+Currently an international exchange student at University of Birmingham, UK
 
 ### More Information
 
