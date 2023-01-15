@@ -15,4 +15,4 @@ A linguist into being, forming my understanding of the development of child gram
 ### Contact me
 
 [My Gmail](phoebusa50@gmail.com)
-[My University Account] (hvyxw1@nottingham.edu.cn)
+[My University Account](hvyxw1@nottingham.edu.cn)
